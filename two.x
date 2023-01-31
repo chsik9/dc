@@ -18,7 +18,7 @@ int add(numbers)=1;
 
 client.c
 
-#include "add61.h"
+#include "add00.h"
 
 
 void
@@ -73,7 +73,7 @@ exit (0);
 
 server.c
 
-#include "add61.h"
+#include "add00.h"
 
 int *
 add_1_svc(numbers *argp, struct svc_req *rqstp)

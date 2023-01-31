@@ -29,7 +29,7 @@ choice=0
 while True:
     print()
     print()
-    print("-----------Bully Algorithm---------------")
+    print(" Bully ")
     print("1. Add a Process")
     print("2. Crash a Process")
     print("3. Print the Current Active Processes")

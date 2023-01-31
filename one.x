@@ -1,5 +1,3 @@
-/*combine the arguments to be passed to the server side in a structure*/
-
 struct numbers{
 
 int a;
